@@ -4,7 +4,7 @@ NPC generator
 🌟 **OVERVIEW** 🌟
 
 
-The NPC generator can be used to print a variety of different characters each with their very own skills and powers. Some will be female and some will be male, some will be more powerful than others, and each NPC will have their very own name. My program will ask the user for a certain number of NPC's, my program will then print the amount of NPC's the user suggests. If you enter over 20 NPC's, you will find that it gives an error saying that you are limited to 20 or below characters.
+The NPC generator can be used to print a variety of different characters each with their very own skills and powers. Some will be female and some will be male, some will be more powerful than others, and each NPC will have their very own name. My program will ask the user for a certain number of NPC's, my program will then print the amount of NPC's the user suggests. If you enter over 20 NPC's, you will find that it gives an error saying that you are limited to 0 - 20 NPC's each time you run the program.
 
 
 🌟 **HIGHLIGHTS** 🌟
@@ -21,7 +21,7 @@ The NPC generator can be used to print a variety of different characters each wi
 🌟 **AUTHOR** 🌟
 
 
-I am Grayson Woodell https://github.com/redfrog3, a first year student in the Computer Science Engineering Academy https://github.com/CSAEA at Voorhees high school. This program was written with the basics of python with minimum experience for ease of use and great performance. THis program will help the client with infinite solutions to diverse non-playable characters for an open world video game.
+I am Grayson Woodell https://github.com/redfrog3, a first year student in the Computer Science Engineering Academy https://github.com/CSAEA at Voorhees high school. This program was written with the basics of python with minimum experience for ease of use and great performance. This program will help the client with infinite solutions to diverse non-playable characters for an open world video game.
 
 
 🌟 **USAGE INSTRUCTIONS** 🌟
